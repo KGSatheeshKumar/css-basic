@@ -1,6 +1,6 @@
 # CSS - Basics :
 
-## css Basic.html
+## index.html
 
 ```
 <!DOCTYPE html>
