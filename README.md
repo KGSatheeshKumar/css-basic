@@ -1,6 +1,6 @@
 # CSS - Basics :
 
-## Program
+## ex07.html
 
 ```
 <!DOCTYPE html>
